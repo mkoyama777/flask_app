@@ -1,9 +1,9 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-ca-certificates==2023.01.10==haa95532_0
-certifi==2022.12.7==py39haa95532_0
-click==8.0.4==py39haa95532_0
+ca-certificates==2023.01.10
+certifi==2022.12.7
+click==8.0.4
 colorama==0.4.6==py39haa95532_0
 flask==2.2.2==py39haa95532_0
 importlib-metadata==4.11.3==py39haa95532_0
