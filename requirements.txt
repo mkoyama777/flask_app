@@ -1,6 +1,6 @@
 #aaa
 alabaster==0.7.12
-anaconda==2022.10==py39_0
+anaconda==2022.10
 anaconda-client==1.11.0==py39haa95532_0
 anaconda-navigator==2.3.2==py39haa95532_0
 anaconda-project==0.11.1==py39haa95532_0
@@ -300,7 +300,7 @@ rope==0.22.0==pyhd3eb1b0_0
 rtree==0.9.7==py39h2eaa2aa_1
 ruamel.yaml==0.17.21==py39h2bbff1b_0
 ruamel.yaml.clib==0.2.6==py39h2bbff1b_1
-s3transfer==0.6.0==py39haa95532_0
+gis3transfer==0.6.0==py39haa95532_0
 scikit-image==0.19.2==py39hf11a4ad_0
 scikit-learn==1.0.2==py39hf11a4ad_1
 scikit-learn-intelex==2021.6.0==py39haa95532_0
